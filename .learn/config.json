@@ -1,0 +1,400 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "https://harlequin-ocelot-2z1xrbky.ws-us16.gitpod.io",
+        "editor": {
+            "mode": "preview",
+            "agent": "gitpod",
+            "version": "1.0.70"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "https://3000-harlequin-ocelot-2z1xrbky.ws-us16.gitpod.io",
+        "grading": "isolated",
+        "exercisesPath": "./exercises",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "currentExercise": "00-introduction",
+    "language": "vanillajs",
+    "difficulty": "beginner",
+    "duration": 8,
+    "repository": "https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises",
+    "description": "Learn how to make your application interactive, wait for the user to click, use the keyboard, use the mouse, resize the window and much more!",
+    "title": "Javascript Events",
+    "slug": "javascript-events",
+    "session": 3497105288900308500,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "exercises/00-introduction",
+            "slug": "00-introduction",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "00-introduction",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/00-introduction/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/00-introduction/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 1,
+            "path": "exercises/01-alert-on-click",
+            "slug": "01-alert-on-click",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/01-alert-on-click/index.js",
+            "title": "01-alert-on-click",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/01-alert-on-click/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-alert-on-click/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-alert-on-click/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/01-alert-on-click/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 2,
+            "path": "exercises/02-on-click-Hello-World",
+            "slug": "02-on-click-Hello-World",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/02-on-click-Hello-World/index.js",
+            "title": "02-on-click-Hello-World",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/02-on-click-Hello-World/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-on-click-Hello-World/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-on-click-Hello-World/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02-on-click-Hello-World/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 3,
+            "path": "exercises/03-sum-values",
+            "slug": "03-sum-values",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/03-sum-values/index.js",
+            "title": "03-sum-values",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/03-sum-values/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-sum-values/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-sum-values/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/03-sum-values/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 4,
+            "path": "exercises/04-hide-on-click",
+            "slug": "04-hide-on-click",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/04-hide-on-click/index.js",
+            "title": "04-hide-on-click",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/04-hide-on-click/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-hide-on-click/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-hide-on-click/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04-hide-on-click/styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04-hide-on-click/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 5,
+            "path": "exercises/05-the-load-event",
+            "slug": "05-the-load-event",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/05-the-load-event/index.js",
+            "title": "05-the-load-event",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/05-the-load-event/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-the-load-event/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-the-load-event/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/05-the-load-event/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 6,
+            "path": "exercises/06-add-listener-with-js",
+            "slug": "06-add-listener-with-js",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/06-add-listener-with-js/index.js",
+            "title": "06-add-listener-with-js",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/06-add-listener-with-js/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-add-listener-with-js/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-add-listener-with-js/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/06-add-listener-with-js/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 7,
+            "path": "exercises/07-count-on-click",
+            "slug": "07-count-on-click",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/07-count-on-click/index.js",
+            "title": "07-count-on-click",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/07-count-on-click/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-count-on-click/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-count-on-click/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/07-count-on-click/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 8,
+            "path": "exercises/07.1-change-turn-on-click",
+            "slug": "07.1-change-turn-on-click",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/07.1-change-turn-on-click/index.js",
+            "title": "07.1-change-turn-on-click",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/07.1-change-turn-on-click/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07.1-change-turn-on-click/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07.1-change-turn-on-click/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/07.1-change-turn-on-click/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 9,
+            "path": "exercises/08-event-target",
+            "slug": "08-event-target",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "vanillajs",
+            "entry": "exercises/08-event-target/index.js",
+            "title": "08-event-target",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/08-event-target/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-event-target/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-event-target/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/08-event-target/index.js",
+                    "name": "index.js",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        }
+    ]
+}
